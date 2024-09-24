@@ -1,3 +1,7 @@
 testing creating files
 practicing staging files 
 practicing committing files
+
+9-24-2024 i have been working for an hour and i
+learned how to make a file in git and use visualstudio code terminal
+i can stage them, commit them, and push them to git 
